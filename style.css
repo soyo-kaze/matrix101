@@ -1,3 +1,16 @@
-.pre{
-    padding: 12px;
+/* CSS File */
+
+html,
+body{
+    height: 100%
+}
+
+/* Cover */
+
+#cover{
+    background: #222 url('bglmg.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
 }
