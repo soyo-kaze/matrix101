@@ -8,9 +8,13 @@ body{
 /* Cover */
 
 #cover{
-    background: #222 url('bglmg.jpg') no-repeat;
+    background: url("bg2.jpg");
     background-size: cover;
     color: white;
     height: 100%;
     text-align: center;
+    align-content: center;
+}
+#cover-caption{
+    width: 100;
 }
